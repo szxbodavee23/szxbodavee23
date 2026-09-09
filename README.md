@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Animált fejléc és integető kéz -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,15,36,13&height=180&section=header&text=Szia%20világ!%20👋&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,15,36,13&height=180&section=header&text=Hello%20World!%20👋&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%" />
 
   <!-- Gépelő effekt -->
   <a href="https://git.io/typing-svg">
