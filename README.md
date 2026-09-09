@@ -58,10 +58,10 @@
 
 ---
 
-### 📈 Aktivitási grafikon
+### 🏆 Eredmények & Trófeák
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=szxbodavee23&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=szxbodavee23&theme=tokyonight&no-frame=true&margin-w=15" width="90%" alt="GitHub Trophies" />
 </div>
 
 ---
