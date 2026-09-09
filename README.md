@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Animált fejléc és integető kéz -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,15,36,13&height=180&section=header&text=Szia%20világ!%20👋&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,15,36,13&height=180&section=header&text=Hello%20world!%20👋&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%" />
 
   <!-- Gépelő effekt -->
   <a href="https://git.io/typing-svg">
@@ -23,10 +23,10 @@
 
 ### 📌 Rólam & Fókuszterületek
 
-- 🔭 Jelenleg összetett full-stack és asztali projekteken dolgozom.
-- 🌱 Folyamatosan fejlesztem a tudásom robusztus architektúrák és tiszta kód terén.
-- ⚡ **Érdeklődési körök:** Webes alkalmazások, API fejlesztés és interaktív felületek.
-- 💬 Kérdezz bátran modern technológiákról, keretrendszerekről és fejlesztési ötletekről!
+- 🔭 **Jelenleg:** Modern full-stack és asztali szoftverek fejlesztése.
+- 🌱 **Fókusz:** Backend architektúrák mélyítése, reszponzív UI és tiszta kód.
+- 💬 **Témák:** Kérdezz bátran Java, .NET vagy React megoldásokról!
+- ⚡ **Érdeklődés:** Skálázható rendszerek, API-k, modern fejlesztői eszközök.
 
 ---
 
@@ -58,18 +58,17 @@
 
 ---
 
-### 🏆 Eredmények & Trófeák
+### 🛠️ Fejlesztői környezet & Eszközök
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=szxbodavee23&theme=tokyonight&no-frame=true&margin-w=15" width="90%" alt="GitHub Trophies" />
-</div>
 
----
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" height="25" />
 
-### 💡 Napi programozói gondolat
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </div>
 
 ---
