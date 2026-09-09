@@ -56,7 +56,7 @@
   <a href="https://www.linkedin.com/in/d%C3%A1vid-szab%C3%B3-2501821b9/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
   </a>
-  <a href="https://daveszabo.online" target="_blank">
+  <a href="https://davidszabo.online" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00F5D4?style=for-the-badge&logo=firefox&logoColor=black" height="35" />
   </a>
   <a href="mailto:davedszabo@gmail.com">
