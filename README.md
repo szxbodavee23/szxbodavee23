@@ -13,7 +13,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" alt="Coding GIF" />
 
   <p align="center">
-    🚀 Lelkes fejlesztő, aki modern webes rendszerek, skálázható backend architektúrák és tiszta kód építésével foglalkozik.
+    🚀 Lelkes fejlesztő, aki foglalkozik, mind backend, mind frontend fejlesztéssel.
   </p>
 
 </div>
@@ -49,13 +49,13 @@
 
 <div align="center">
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TE_GITHUB_NEVED&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TE_GITHUB_NEVED&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=szxbodavee23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=szxbodavee23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 
   <br><br>
 
   <!-- Streak kártya -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TE_GITHUB_NEVED&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=szxbodavee23&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
 </div>
 
@@ -65,19 +65,18 @@
 
 <div align="center">
 
-  <a href="https://linkedin.com/in/profilod" target="_blank">
+  <a href="https://www.linkedin.com/in/d%C3%A1vid-szab%C3%B3-2501821b9/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
   </a>
-  <a href="https://a-weboldalad.online" target="_blank">
+  <a href="daveszabo.online" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00F5D4?style=for-the-badge&logo=firefox&logoColor=black" height="35" />
   </a>
-  <a href="mailto:emailcimed@pelda.hu">
+  <a href="mailto:davedszabo@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
   </a>
 
   <br><br>
 
-  <!-- Animált lábléc -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=13,24,36,15&height=100&section=footer" width="100%" />
 
 </div>
